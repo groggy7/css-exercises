@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgb(214, 111, 173);
+}
+
+.adjust-font-size {
+    font-size: 32px;
+}
+
+#div1 {
+    color: rgb(13, 33, 184);
+    font-size: 40px;
+}
+
+#div2 {
+    background-color: rgb(39, 207, 45);
+    font-weight: bold;
+    font-size: 28px;
+}
